@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="field_1" matching="">
+		<keyword>
+			<value>terminate</value>
+			<value>however</value>
+		</keyword>
+		<position>top</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_2" matching="">
+		<keyword>
+			<value>terminate</value>
+			<value>however</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_3" matching="">
+		<keyword>
+			<value>terminate</value>
+			<value>however</value>
+		</keyword>
+		<position>left</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_4" matching="">
+		<keyword>
+			<value>terminate</value>
+			<value>however</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<amount>
+		<field name="vat_rate">10|5|0</field>
+	</amount>
+</config>

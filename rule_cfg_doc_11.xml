@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="invoicenumber" matching="">
+		<keyword>
+			<value>Code:</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+			<!--<boundary>1,1500,0,1050,740</boundary>
+			<boundary>2,0,0,5000,5000</boundary>
+			<boundary>3,0,0,5000,5000</boundary>
+			<boundary>4,0,0,5000,5000</boundary>-->
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim> 
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="invoicedate" matching="">
+		<keyword>
+			<value>Date</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+			<!--<boundary>1,100,1130,2400,200</boundary>-->
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<!--<script>function(curValue) {if(curValue!=null) return 'HÓA ĐƠN MANG VỀ'; else return 'GỬI KÈM THEO HÀNG';}</script>-->
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="orderno" matching="">
+		<keyword>
+			<value>Order No.</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,100,1130,2400,200</boundary>-->
+			<boundary>0,0,0,0,0</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<!--<script>function(curValue) {if(curValue!=null) return 'HÓA ĐƠN MANG VỀ'; else return 'GỬI KÈM THEO HÀNG';}</script>-->
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="currencycode" matching="">
+		<keyword>
+			<value>Currency Code:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+			<!--<boundary>1,1500,0,1050,740</boundary>
+			<boundary>2,0,0,5000,5000</boundary>
+			<boundary>3,0,0,5000,5000</boundary>
+			<boundary>4,0,0,5000,5000</boundary>-->
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="billto" matching="">
+		<keyword>
+			<value>Bill to</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+		<!--<boundary>1,0,620,1245,400</boundary>-->
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<!--<script>function(billValue) {if(billValue!=null) return ''; else return '';}</script>-->
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="shipto" matching="">
+		<keyword>
+			<value>Ship to</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+			<!--<boundary>1,1245,620,1285,380</boundary>-->
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="saleperson" matching="">
+		<keyword>
+			<value>Sales Person</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,100,1130,2400,200</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="shippingdate" matching="">
+		<keyword>
+			<value>Shipping Date</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>200</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="shippingterms" matching="">
+		<keyword>
+			<value>Shipping Terms</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,100,1130,2400,200</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="paymentterms" matching="">
+		<keyword>
+			<value>Payment Terms</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,100,1130,2400,200</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="quantity" matching="">
+		<keyword>
+			<value>Quantity</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<!--<boundary>1,0,1310,2550,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">0</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="itemcode" matching="">
+		<keyword>
+			<value>Item Code</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<!--<boundary>1,0,1310,2550,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>300</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="unitprice" matching="">
+		<keyword>
+			<value>Unit Price</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<!--<boundary>1,0,1310,2550,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="amount" matching="">
+		<keyword>
+			<value>Amount</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<!--<boundary>1,0,1310,2550,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="discount" matching="">
+		<keyword>
+			<value>Discount</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<!--<boundary>1,0,1310,2550,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line max_line_space = "">4</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="subtotal" matching="">
+		<keyword>
+			<value>Sub Total:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,0,2160,2545,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>800</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="discounttotal" matching="">
+		<keyword>
+			<value>Discount:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,0,2160,2545,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>800</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="adddiscount" matching="">
+		<keyword>
+			<value>Add. Discount:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,0,2160,2545,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>800</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="shipping" matching="">
+		<keyword>
+			<value>Shipping:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,0,2160,2545,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>800</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+		<field name="total" matching="">
+		<keyword>
+			<value>Total:</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<!--<boundary>1,0,2160,2545,880</boundary>-->
+			<boundary>0,0,0,0,0</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>800</word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<!--<field name="RecieptDate">
+		<keyword>
+			<value>Date:</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptTime">
+		<keyword>
+			<value>Time:</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+			<boundary>3,400,600,500,500</boundary>
+		</page>
+		<pattern>[0-9]{2}:[0-9]{2}</pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptTerminal">
+		<keyword>
+			<value>Terminal</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptCash">
+		<keyword>
+			<value>Cash</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>5000</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptItem">
+		<keyword>
+			<value>ITEM</value>			
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>350</word_space>
+		<max_line>2</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>-->
+	<!--<amount>
+		<field name="vat_rate">5|7.5|10|3.2</field>
+	</amount>-->
+</config>

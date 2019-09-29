@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="invoicenumber" matching="INV.+">
+		<keyword>
+			<value>Currency Code:</value>			
+		</keyword>
+		<position>Right</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="currencycode" matching="USD|EUR|GBP|RUB|AFN|SHP|AUD|SGD">
+		<keyword>
+			<value>Currency Code:</value>			
+		</keyword>
+		<position>Left</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="invoicedate">
+		<keyword>
+			<value>Date</value>			
+		</keyword>
+		<position>Right</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = ""></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="itemcode">
+		<keyword>
+			<value>Item Code</value>			
+		</keyword>
+		<position>BOTTOM</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = "">10</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="quantity">
+		<keyword>
+			<value>Quantity</value>			
+		</keyword>
+		<position>BOTTOM</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = "">10</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="amount">
+		<keyword>
+			<value>Amount</value>			
+		</keyword>
+		<position>BOTTOM</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>			
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line max_line_space = "">10</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+        <amount>
+		<field name="vat_rate" shipping_rate="70|50|0">5|7.5|10|3.2</field>
+	</amount>
+</config>

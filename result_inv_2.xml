@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1"/>
+    <field name="field_2"/>
+    <field name="field_3"/>
+    <field name="field_4"/>
+    <field name="net">
+        <value page_nr="1" kw_box="957 566 52 14" kw_val="$120.00" val_box="957 566 52 14">$120.00</value>
+    </field>
+    <field name="vat_amount"/>
+    <field name="vat_rate">
+        <value page_nr="0" kw_box="0 0 0 0" kw_val="7.5" val_box="0 0 0 0">7.5</value>
+    </field>
+    <field name="total">
+        <value page_nr="1" kw_box="893 878 117 30" kw_val="$129.00" val_box="893 878 117 30">$129.00</value>
+    </field>
+</result>

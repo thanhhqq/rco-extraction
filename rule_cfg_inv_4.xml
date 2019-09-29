@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="field_1" matching="">
+		<keyword>
+			<value>suspect</value>
+			<value>collaborative</value>
+		</keyword>
+		<position>top</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_2" matching="">
+		<keyword>
+			<value>supposed</value>
+			<value>survive</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,400,600,500,500</boundary>
+			<boundary>3,400,600,500,500</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_3" matching="">
+		<keyword>
+			<value>access</value>
+			<value>survive</value>
+		</keyword>
+		<position>left</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_4" matching="">
+		<keyword>
+			<value>supposed</value>
+			<value>degree</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>3,400,600,500,500</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<amount>
+		<field name="vat_rate">10|5|0</field>
+	</amount>
+</config>

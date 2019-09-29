@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="348 126 85 24" kw_val="works" val_box="374 93 152 23">text to test</value>
+        <value page_nr="1" kw_box="189 194 85 24" kw_val="brown" val_box="172 126 142 24">and see if</value>
+    </field>
+    <field name="field_2">
+        <value page_nr="1" kw_box="348 126 85 24" kw_val="works" val_box="348 194 183 31">jumped over</value>
+        <value page_nr="1" kw_box="189 194 85 24" kw_val="brown" val_box="165 228 239 24">The quick brown</value>
+        <value page_nr="1" kw_box="189 194 85 24" kw_val="brown" val_box="165 262 184 31">lazy fox. The</value>
+    </field>
+    <field name="field_3">
+        <value page_nr="1" kw_box="348 126 85 24" kw_val="works" val_box="299 126 40 24">if it</value>
+        <value page_nr="1" kw_box="189 194 85 24" kw_val="brown" val_box="102 194 75 30">quick</value>
+    </field>
+    <field name="field_4">
+        <value page_nr="1" kw_box="348 126 85 24" kw_val="works" val_box="445 132 33 18">on</value>
+        <value page_nr="1" kw_box="189 194 85 24" kw_val="brown" val_box="287 194 52 31">dog</value>
+    </field>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

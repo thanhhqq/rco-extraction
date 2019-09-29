@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="geburtsdatum">
+        <value page_nr="1" kw_box="443 199 27 63" kw_val="Ngày"/>
+    </field>
+    <field name="accountnumber"/>
+    <field name="strasse">
+        <value page_nr="1" kw_box="379 2000 27 182" kw_val="Giao hàng tới" val_box="449 1852 24 156">CHẢNH XE - 0909376800</value>
+        <value page_nr="1" kw_box="379 2000 27 182" kw_val="Giao hàng tới" val_box="489 1850 22 145">287 NGUYỄN DUY,P9,QS</value>
+        <value page_nr="1" kw_box="379 2000 27 182" kw_val="Giao hàng tới" val_box="519 1689 22 77">GƯI QUANG LÊ,F28-29 LÊ ĐẠI HÀNH</value>
+        <value page_nr="1" kw_box="379 2000 27 182" kw_val="Giao hàng tới" val_box="562 1833 20 177">PHAN THIẾT ,01246909079</value>
+    </field>
+</result>

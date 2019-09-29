@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 4.0.0-beta.4-138-g2093' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "/mnt/DataProcessing/log/SGB_Team/Projects/Demo_Invoices/Import/2019-01-27/ITS/201606_0000399/input/201606_0000399.tiff"; bbox 0 0 2552 3494; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 130 189 2511 3484">
+    <p class='ocr_par' id='par_1_1' lang='vie' title="bbox 128 189 2511 3484">
+     <span class='ocr_line' id='line_1_1' title="bbox 314 189 2449 265; baseline 0.002 -29; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_1' title='bbox 314 235 376 255; x_wconf 24'>^—</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 445 234 497 242; x_wconf 41'>(=&gt;</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 550 205 674 244; x_wconf 44'>Mẫu</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 681 205 728 244; x_wconf 44'>số:</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 737 209 963 245; x_wconf 60'>01GTKT0001</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1108 195 1251 259; x_wconf 35'>HOA</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1262 193 1402 239; x_wconf 87'>ĐƠN</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1418 192 1534 257; x_wconf 96'>GIÁ</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 1546 196 1654 252; x_wconf 92'>TRỊ</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 1670 197 1785 240; x_wconf 93'>GIÁ</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 1799 189 1978 241; x_wconf 66'>TẮNG</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 2134 205 2449 265; x_wconf 0'>EsslergsDl</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 347 242 2448 326; baseline 0.001 -39; x_size 52; x_descenders 12; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_13' title='bbox 347 272 380 298; x_wconf 0'>LÌ</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 0 0 2552 3494; x_wconf 91'>|</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 469 258 552 305; x_wconf 64'>Z3</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 596 257 739 312; x_wconf 73'>Kýhiện</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 748 264 876 295; x_wconf 54'>DDH5E</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 1116 260 1206 296; x_wconf 71'>(HÓA</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 1211 260 1303 292; x_wconf 85'>ĐƠM</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 1304 252 1458 292; x_wconf 52'>CHUYÊN</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1457 259 1534 292; x_wconf 85'>ĐÔI</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 1536 253 1597 292; x_wconf 96'>TỪ</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 1593 253 1675 293; x_wconf 82'>HÓA</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 1680 262 1771 293; x_wconf 87'>ĐƠN</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1770 254 1845 293; x_wconf 93'>XÁC</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1853 260 1968 300; x_wconf 63'>THỰC)</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 2148 260 2205 295; x_wconf 26'>nu</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 2211 242 2310 326; x_wconf 26'>ni</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 2306 252 2448 314; x_wconf 37'>ông</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 282 271 2448 415; baseline -0.01 -62; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_30' title='bbox 282 332 379 359; x_wconf 0'>lịỰJ</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 440 321 446 363; x_wconf 30'>ƒ</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 469 271 550 415; x_wconf 35'>S</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 597 313 652 345; x_wconf 95'>Số:</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 662 314 793 345; x_wconf 75'>0000399</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1325 311 1407 352; x_wconf 35'>Abày</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1417 311 1454 342; x_wconf 47'>7š</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 1462 311 1550 352; x_wconf 81'>thống</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 1554 311 1597 343; x_wconf 82'>D6</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1601 312 1668 343; x_wconf 96'>năm</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 1676 312 1755 344; x_wconf 96'>2016</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 2133 308 2187 351; x_wconf 0'>Ứm]</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 2201 302 2448 380; x_wconf 1'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 331 350 2405 423; baseline 0.009 -48; x_size 45; x_descenders 12; x_ascenders 12">
+      <span class='ocrx_word' id='word_1_43' title='bbox 331 368 365 380; x_wconf 0'>ỐỔ</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 444 364 515 409; x_wconf 27'>GÀ</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 2139 350 2208 410; x_wconf 12'>in</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 2205 359 2231 402; x_wconf 24'>hi</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 2232 364 2405 423; x_wconf 0'> n</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 350 382 2441 445; baseline 0 -23; x_size 22.630619; x_descenders 3.63062; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_48' title='bbox 350 414 394 422; x_wconf 46'>mm</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 445 418 504 422; x_wconf 10'>Am</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 2146 403 2222 440; x_wconf 19'>ty</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 2260 412 2290 428; x_wconf 0'>E</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 2304 424 2308 427; x_wconf 0'>ĐI</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 2318 407 2395 445; x_wconf 0'> E</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 2369 382 2441 445; x_wconf 0'>n</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 347 428 2436 488; baseline 0.003 -14; x_size 42; x_descenders 10; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_55' title='bbox 347 479 358 487; x_wconf 54'>Ñ</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 996 457 998 460; x_wconf 55'>:</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 2132 428 2177 476; x_wconf 14'>ke</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 2332 438 2436 488; x_wconf 28'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 315 476 2377 528; baseline 0.001 -10; x_size 53; x_descenders 9; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_59' title='bbox 315 488 361 518; x_wconf 61'>Số</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 368 488 430 518; x_wconf 90'>hãa</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 438 488 501 518; x_wconf 96'>đơn</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 509 489 563 518; x_wconf 94'>xác</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 572 489 656 528; x_wconf 93'>thực:</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 664 489 944 528; x_wconf 90'>012139000011476</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 2131 476 2377 520; x_wconf 0'>EvOEONOSEO</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 2383 485 2441 520; x_wconf 0'>NI</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 315 536 1778 577; baseline 0.004 -11.365; x_size 32.410149; x_descenders 6.4101486; x_ascenders 6.5786257">
+      <span class='ocrx_word' id='word_1_67' title='bbox 315 536 370 566; x_wconf 86'>Mã</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 378 537 433 566; x_wconf 26'>xác</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 440 537 522 575; x_wconf 93'>thực:</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 533 541 808 573; x_wconf 46'>OnLsymgToBThKFS</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 813 542 826 568; x_wconf 7'>1098</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 829 542 1004 569; x_wconf 7'>:0EH</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 1001 543 1778 577; x_wconf 0'>xGOENEIÐpUEbaPETh#4HGsgEzMPhxkOQEoØ#E3eglRg7</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 564 605 2511 656; baseline 0.004 5.124; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_74' title='bbox 286 657 546 662; x_wconf 45'>..</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 547 605 715 662; x_wconf 50'> THÔNG</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 715 618 808 663; x_wconf 18'>TIN</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 808 616 905 663; x_wconf 70'>ĐƠN</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 906 609 1284 665; x_wconf 0'>VIEÁNSSxSSS</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 1285 661 1495 666; x_wconf 28'>|</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 1496 609 2036 667; x_wconf 39'>THÔNGTINKHÁCH</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 2037 613 2295 669; x_wconf 58'>HÀNG</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 2296 664 2432 669; x_wconf 41'>|</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 2509 622 2511 624; x_wconf 0'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 286 683 2068 742; baseline 0.002 -18; x_size 55; x_descenders 10; x_ascenders 14">
+      <span class='ocrx_word' id='word_1_84' title='bbox 286 693 360 724; x_wconf 68'>Đơn</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 367 693 397 742; x_wconf 91'>vị</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 405 694 468 742; x_wconf 65'>bản</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 473 694 567 733; x_wconf 84'>hãng:</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 576 694 657 734; x_wconf 96'>Công</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 663 694 712 734; x_wconf 93'>Ty</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 718 695 830 726; x_wconf 86'>TNHH</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 836 695 907 726; x_wconf 94'>Phát</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 914 687 998 726; x_wconf 94'>Triển</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 1004 696 1086 736; x_wconf 96'>Công</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 1091 696 1171 736; x_wconf 93'>Nghệ</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 1178 697 1234 727; x_wconf 62'>ITS</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 1370 697 1418 737; x_wconf 73'>Hạ</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 1425 697 1480 728; x_wconf 53'>tên</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 1485 697 1585 737; x_wconf 95'>người</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 1586 707 1676 728; x_wconf 93'>mua:</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 286 743 2324 792; baseline 0.003 -18; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_100' title='bbox 286 743 341 774; x_wconf 73'>Mã</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 348 744 385 774; x_wconf 73'>số</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 393 744 479 774; x_wconf 86'>thuê:</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 489 744 739 792; x_wconf 23'>0312179313.</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 1370 747 1437 778; x_wconf 62'>Tên</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 1444 748 1508 778; x_wconf 90'>đơn</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 1516 747 1555 787; x_wconf 92'>vị:</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 1565 748 1647 787; x_wconf 95'>Công</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 1652 747 1703 788; x_wconf 93'>Ty</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 1708 747 1820 779; x_wconf 92'>TNHH</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 1826 748 1875 779; x_wconf 80'>Sài</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 1879 743 1950 780; x_wconf 93'>Gòn</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 1953 748 2022 788; x_wconf 91'>Bpo</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 286 788 1821 845; baseline 0.003 -22; x_size 57; x_descenders 17; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_113' title='bbox 286 793 348 841; x_wconf 96'>Địa</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 354 793 418 824; x_wconf 96'>chỉ:</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 430 794 503 824; x_wconf 96'>1307</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 510 795 587 825; x_wconf 95'>Phan</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 587 794 656 824; x_wconf 96'>Văn</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 663 794 721 830; x_wconf 80'>Trị</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 728 794 845 834; x_wconf 96'>Phường</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 856 795 891 826; x_wconf 88'>10</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 890 795 991 832; x_wconf 88'>Quận</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 997 796 1046 826; x_wconf 70'>Gò</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 1054 796 1127 836; x_wconf 89'>Vấp</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 1134 796 1232 833; x_wconf 95'>Thành</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 1239 788 1300 827; x_wconf 91'>Phố</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 1369 788 1821 845; x_wconf 40'>|Mãsốthnê:0313835778</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 281 843 2387 888; baseline 0.003 -15.594; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_127' title='bbox 281 843 335 873; x_wconf 74'>“Hỗ</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 342 843 400 873; x_wconf 65'>Chí</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 405 843 491 888; x_wconf 92'>Minh</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 1370 846 1430 885; x_wconf 96'>Địa</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 1438 847 1501 886; x_wconf 96'>chỉ:</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 1510 847 1586 885; x_wconf 84'>Tầng</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 1593 847 1623 883; x_wconf 96'>4,</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 1630 856 1681 877; x_wconf 96'>cao</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 1690 847 1725 876; x_wconf 75'>ắc</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 1733 847 1778 876; x_wconf 95'>H3</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 1790 848 1825 877; x_wconf 95'>số</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 1832 847 1899 882; x_wconf 93'>384,</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 1908 847 2005 886; x_wconf 96'>đường</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 2008 848 2112 887; x_wconf 85'>Hoàng</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 2114 848 2200 884; x_wconf 82'>Diệu,</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 2207 848 2330 888; x_wconf 96'>phường</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 2335 849 2387 885; x_wconf 84'>06,</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 285 887 1758 941; baseline 0.002 -18; x_size 46; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_144' title='bbox 285 892 369 941; x_wconf 95'>Điện</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 376 893 473 932; x_wconf 96'>thoại:</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 482 892 521 923; x_wconf 96'>08</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 530 893 605 923; x_wconf 96'>3895</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 613 893 686 924; x_wconf 96'>2161</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 1369 895 1452 932; x_wconf 79'>Quận</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1453 896 1489 931; x_wconf 96'>4,</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 1497 895 1545 925; x_wconf 95'>TP</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 1552 887 1601 926; x_wconf 96'>Hỗ</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 1608 895 1666 926; x_wconf 53'>Chí</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 1667 895 1758 926; x_wconf 87'>Minh</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 286 936 2467 975; baseline 0.002 -3; x_size 48.901691; x_descenders 9.9016914; x_ascenders 9">
+      <span class='ocrx_word' id='word_1_155' title='bbox 286 938 331 972; x_wconf 88'>S</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 339 942 384 972; x_wconf 91'>tài</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 392 942 506 973; x_wconf 94'>khoản:</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 517 942 740 973; x_wconf 95'>060079009557</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 1370 936 1415 975; x_wconf 85'>Số</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 1422 944 1467 975; x_wconf 95'>tài</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 1475 944 1590 975; x_wconf 94'>khoăn:</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 525 1018 2184 1067; baseline 0.002 -11; x_size 57; x_descenders 10; x_ascenders 17">
+      <span class='ocrx_word' id='word_1_162' title='bbox 525 1025 655 1065; x_wconf 96'>Phương</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 663 1025 735 1056; x_wconf 96'>thức</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 743 1027 841 1056; x_wconf 96'>thanh</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 849 1027 932 1057; x_wconf 96'>toán:</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 941 1018 1012 1056; x_wconf 80'>Tiên</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 1018 1027 1076 1062; x_wconf 96'>mặt</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 1932 1029 2006 1067; x_wconf 94'>Loại</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 2012 1020 2093 1059; x_wconf 75'>tiền:</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 2100 1029 2184 1059; x_wconf 93'>VND</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 284 1128 2388 1210; baseline 0.001 -27; x_size 65.23175; x_descenders 10.231748; x_ascenders 24">
+      <span class='ocrx_word' id='word_1_171' title='bbox 284 1152 362 1183; x_wconf 90'>STT</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 0 0 2552 3494; x_wconf 93'>|</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 403 1152 550 1192; x_wconf 31'>hóa,địch</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 805 1153 871 1183; x_wconf 97'>Tên</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 878 1153 961 1193; x_wconf 74'>bàng</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 969 1153 1039 1190; x_wconf 23'>hãa,</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 1046 1153 1116 1193; x_wconf 93'>địch</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 1124 1163 1163 1193; x_wconf 88'>rụ</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 1583 1128 1666 1201; x_wconf 0'>SG.</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 1815 1131 1930 1210; x_wconf 0'>n</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 2010 1144 2086 1185; x_wconf 93'>suất</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 0 0 2552 3494; x_wconf 92'>|</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 2210 1145 2388 1185; x_wconf 91'>trướcthuế</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 130 1179 2477 1250; baseline 0 -15; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_184' title='bbox 130 1206 240 1250; x_wconf 84'>n-.</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 410 1231 414 1235; x_wconf 29'>..</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 460 1213 499 1244; x_wconf 52'>vụ</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 1554 1179 1652 1218; x_wconf 96'>lượng</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 1827 1204 1909 1210; x_wconf 26'>hô</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 1997 1203 2105 1235; x_wconf 0'>œrer</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 2246 1204 2366 1246; x_wconf 56'>GTGT</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 269 1338 2440 1415; baseline 0 -26; x_size 61; x_descenders 10; x_ascenders 21">
+      <span class='ocrx_word' id='word_1_191' title='bbox 269 1338 578 1415; x_wconf 31'>li</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 597 1359 669 1395; x_wconf 73'>Cụm</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 677 1359 756 1389; x_wconf 22'>đmm</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 763 1359 832 1398; x_wconf 93'>máy</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 839 1359 988 1399; x_wconf 81'>panasonic</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 996 1359 1073 1389; x_wconf 96'>2170</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 1644 1359 1666 1399; x_wconf 65'>1|</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 1788 1358 1936 1389; x_wconf 77'>1350000</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 2280 1350 2440 1389; x_wconf 82'>1350000</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 285 1561 2433 1600; baseline 0 -9; x_size 51.259926; x_descenders 10.138298; x_ascenders 10.404762">
+      <span class='ocrx_word' id='word_1_200' title='bbox 285 1561 367 1600; x_wconf 96'>Hàng</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 373 1561 431 1592; x_wconf 93'>hóa</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 435 1561 490 1591; x_wconf 76'>DV</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 501 1562 537 1591; x_wconf 91'>10</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 545 1561 577 1591; x_wconf 88'>%</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 1545 1561 1746 1591; x_wconf 21'>71133000</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 2280 1561 2365 1591; x_wconf 66'>1350</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 2365 1561 2433 1591; x_wconf 75'>000</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 285 1623 2136 1684; baseline -0.001 -14; x_size 61; x_descenders 15; x_ascenders 15">
+      <span class='ocrx_word' id='word_1_208' title='bbox 285 1630 366 1679; x_wconf 81'>Tổng</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 374 1630 432 1670; x_wconf 54'>tiễn</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 439 1630 506 1670; x_wconf 81'>thuế</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 514 1639 621 1670; x_wconf 92'>GTGT</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 961 1672 963 1675; x_wconf 63'>|</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 1626 1638 1679 1670; x_wconf 95'>135</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 1679 1638 1747 1684; x_wconf 95'>000</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 2134 1623 2136 1625; x_wconf 0'>l</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 266 1694 2433 1774; baseline -0.001 -26; x_size 55; x_descenders 15; x_ascenders 11">
+      <span class='ocrx_word' id='word_1_216' title='bbox 0 0 2552 3494; x_wconf 96'>|</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 266 1694 366 1774; x_wconf 95'>Tổng</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 374 1708 432 1748; x_wconf 93'>tiền</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 439 1718 524 1762; x_wconf 43'>Hnh</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 533 1718 607 1748; x_wconf 87'>toán:</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 2281 1717 2365 1746; x_wconf 94'>1.485</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 2365 1717 2433 1746; x_wconf 94'>000</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 267 1791 1337 1839; baseline 0 -8; x_size 49.901691; x_descenders 9.9016914; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_223' title='bbox 267 1802 313 1832; x_wconf 41'>Số</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 294 1792 387 1832; x_wconf 80'>tiền</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 392 1791 463 1831; x_wconf 96'>viết</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 464 1791 544 1839; x_wconf 96'>bằng</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 550 1801 622 1831; x_wconf 94'>chữ:</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 629 1801 699 1837; x_wconf 94'>Một</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 702 1800 775 1837; x_wconf 12'>triệu</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 783 1792 844 1831; x_wconf 53'>bốn</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 852 1801 922 1831; x_wconf 96'>trăm</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 922 1801 987 1831; x_wconf 61'>tăm</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 994 1800 1077 1831; x_wconf 42'>nnrgi</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 1084 1790 1145 1831; x_wconf 75'>lăn</span>
+      <span class='ocrx_word' id='word_1_235' title='bbox 1152 1784 1247 1839; x_wconf 49'>nghĩa</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 1254 1791 1337 1839; x_wconf 96'>đồng</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 407 1854 2219 1908; baseline -0.001 -16; x_size 46; x_descenders 8; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_237' title='bbox 407 1863 503 1902; x_wconf 22'>&#39;Mguời</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 494 1863 580 1898; x_wconf 96'>thực</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 588 1862 652 1898; x_wconf 96'>hiện</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 659 1854 770 1902; x_wconf 77'>chuyển</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 777 1854 825 1892; x_wconf 94'>đối</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 1232 1861 1479 1901; x_wconf 0'>Ngườimmabäng</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 1571 1874 1575 1876; x_wconf 27'> -</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 1979 1860 2075 1908; x_wconf 82'>Người</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 2079 1860 2137 1890; x_wconf 85'>bán</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 2138 1860 2219 1900; x_wconf 96'>hàng</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 470 1908 2477 1951; baseline -0.001 -3.306; x_size 44.875587; x_descenders 8.8755894; x_ascenders 9.1088667">
+      <span class='ocrx_word' id='word_1_247' title='bbox 470 1912 543 1951; x_wconf 92'>(Ký,</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 551 1912 596 1951; x_wconf 76'>ghí</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 603 1912 636 1941; x_wconf 94'>rõ</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 644 1912 692 1948; x_wconf 96'>họ,</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 699 1912 761 1947; x_wconf 39'>tên)</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 1208 1910 1282 1951; x_wconf 93'>(Kỹ,</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 1288 1911 1334 1950; x_wconf 86'>ghủ</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 1341 1911 1373 1941; x_wconf 55'>tố</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 1381 1911 1429 1947; x_wconf 93'>họ,</span>
+      <span class='ocrx_word' id='word_1_256' title='bbox 1438 1910 1499 1946; x_wconf 92'>tên)</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 1872 1909 1947 1948; x_wconf 73'>(Ký,</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 1955 1909 2029 1949; x_wconf 93'>đồng</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 2035 1909 2099 1946; x_wconf 39'>đần,</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 2105 1909 2154 1949; x_wconf 79'>ghí</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 2158 1908 2194 1939; x_wconf 58'>rÕ</span>
+      <span class='ocrx_word' id='word_1_262' title='bbox 2198 1909 2251 1945; x_wconf 96'>họ,</span>
+      <span class='ocrx_word' id='word_1_263' title='bbox 2260 1908 2321 1945; x_wconf 68'>tên)</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 1785 2079 2414 2128; baseline 0.005 -12.388; x_size 50; x_descenders 10; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_264' title='bbox 1785 2089 1871 2125; x_wconf 85'>Được</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 1876 2089 1923 2128; x_wconf 95'>kỹ</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 1928 2088 1978 2119; x_wconf 63'>bồi</span>
+      <span class='ocrx_word' id='word_1_267' title='bbox 1984 2088 2065 2127; x_wconf 87'>Công</span>
+      <span class='ocrx_word' id='word_1_268' title='bbox 2066 2088 2124 2127; x_wconf 93'>Ty</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 2129 2088 2243 2119; x_wconf 91'>TNHH</span>
+      <span class='ocrx_word' id='word_1_270' title='bbox 2247 2088 2321 2118; x_wconf 81'>Phát</span>
+      <span class='ocrx_word' id='word_1_271' title='bbox 2329 2079 2414 2118; x_wconf 94'>Triển</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 584 2134 2499 2168; baseline -0.013 -4; x_size 16.387312; x_descenders 3; x_ascenders 3.3873124">
+      <span class='ocrx_word' id='word_1_272' title='bbox 584 2162 593 2168; x_wconf 0'>ˆ</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 1556 2149 1558 2151; x_wconf 0'>-</span>
+      <span class='ocrx_word' id='word_1_274' title='bbox 1979 2137 2006 2167; x_wconf 0'>G</span>
+      <span class='ocrx_word' id='word_1_275' title='bbox 2019 2134 2034 2145; x_wconf 0'>Ln</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 2065 2137 2096 2168; x_wconf 12'>S</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 2129 2138 2146 2148; x_wconf 49'>HN</span>
+      <span class='ocrx_word' id='word_1_278' title='bbox 2154 2137 2212 2168; x_wconf 42'>TTS</span>
+      <span class='ocrx_word' id='word_1_279' title='bbox 2497 2137 2499 2140; x_wconf 0'>Ï</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 157 2137 2147 2259; baseline -0.002 -56; x_size 49; x_descenders 10; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_280' title='bbox 157 2180 225 2259; x_wconf 79'>=</span>
+      <span class='ocrx_word' id='word_1_281' title='bbox 415 2162 679 2211; x_wconf 71'>Ngàychuyểnđổi</span>
+      <span class='ocrx_word' id='word_1_282' title='bbox 723 2171 739 2201; x_wconf 53'>ý</span>
+      <span class='ocrx_word' id='word_1_283' title='bbox 769 2171 820 2201; x_wconf 49'>2Ø</span>
+      <span class='ocrx_word' id='word_1_284' title='bbox 2003 2137 2059 2177; x_wconf 55'>ông</span>
+      <span class='ocrx_word' id='word_1_285' title='bbox 2094 2137 2147 2177; x_wconf 91'>Nghệ</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 144 2248 2015 2284; baseline 0.001 -8; x_size 39.468281; x_descenders 6; x_ascenders 8.4682808">
+      <span class='ocrx_word' id='word_1_286' title='bbox 144 2262 157 2276; x_wconf 7'>7</span>
+      <span class='ocrx_word' id='word_1_287' title='bbox 996 2249 1062 2284; x_wconf 0'>điẳn</span>
+      <span class='ocrx_word' id='word_1_288' title='bbox 1070 2248 1133 2279; x_wconf 79'>kiểm</span>
+      <span class='ocrx_word' id='word_1_289' title='bbox 1141 2258 1188 2284; x_wconf 70'>ta,</span>
+      <span class='ocrx_word' id='word_1_290' title='bbox 1196 2248 1239 2278; x_wconf 86'>đối</span>
+      <span class='ocrx_word' id='word_1_291' title='bbox 1245 2248 1318 2278; x_wconf 90'>chiếu</span>
+      <span class='ocrx_word' id='word_1_292' title='bbox 1327 2253 1371 2278; x_wconf 67'>khi</span>
+      <span class='ocrx_word' id='word_1_293' title='bbox 1379 2250 1428 2283; x_wconf 13'>tấn,</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 1436 2253 1504 2283; x_wconf 44'>gian,</span>
+      <span class='ocrx_word' id='word_1_295' title='bbox 1513 2250 1585 2283; x_wconf 83'>nhận</span>
+      <span class='ocrx_word' id='word_1_296' title='bbox 1593 2250 1644 2277; x_wconf 65'>hôn</span>
+      <span class='ocrx_word' id='word_1_297' title='bbox 1652 2252 1713 2282; x_wconf 33'>ong</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 900 2296 1806 2333; baseline -0.002 -5; x_size 38.921352; x_descenders 7.9213529; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_298' title='bbox 900 2302 960 2328; x_wconf 73'>&quot;Hỏa</span>
+      <span class='ocrx_word' id='word_1_299' title='bbox 967 2305 1019 2328; x_wconf 94'>đơn</span>
+      <span class='ocrx_word' id='word_1_300' title='bbox 1027 2301 1084 2333; x_wconf 30'>điện</span>
+      <span class='ocrx_word' id='word_1_301' title='bbox 1092 2301 1124 2327; x_wconf 55'>sẽ</span>
+      <span class='ocrx_word' id='word_1_302' title='bbox 1129 2304 1192 2333; x_wconf 34'>Euợt</span>
+      <span class='ocrx_word' id='word_1_303' title='bbox 1199 2298 1244 2333; x_wconf 71'>cồn</span>
+      <span class='ocrx_word' id='word_1_304' title='bbox 1253 2301 1295 2327; x_wconf 65'>mồ</span>
+      <span class='ocrx_word' id='word_1_305' title='bbox 1299 2301 1346 2327; x_wconf 18'>xấc</span>
+      <span class='ocrx_word' id='word_1_306' title='bbox 1355 2303 1415 2333; x_wconf 75'>thực</span>
+      <span class='ocrx_word' id='word_1_307' title='bbox 1423 2300 1468 2327; x_wconf 34'>bởi</span>
+      <span class='ocrx_word' id='word_1_308' title='bbox 1473 2296 1544 2332; x_wconf 94'>Tổng</span>
+      <span class='ocrx_word' id='word_1_309' title='bbox 1550 2308 1596 2332; x_wconf 96'>cục</span>
+      <span class='ocrx_word' id='word_1_310' title='bbox 1602 2296 1679 2326; x_wconf 82'>Thuế</span>
+      <span class='ocrx_word' id='word_1_311' title='bbox 1684 2299 1737 2332; x_wconf 15'>ĐIỆ:</span>
+      <span class='ocrx_word' id='word_1_312' title='bbox 1741 2302 1806 2326; x_wconf 0'>NGn</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 913 3458 2483 3484; baseline 0 -2; x_size 21; x_descenders 3; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_313' title='bbox 913 3458 935 3459; x_wconf 40'>0</span>
+      <span class='ocrx_word' id='word_1_314' title='bbox 0 0 2552 3494; x_wconf 0'>TƯ</span>
+      <span class='ocrx_word' id='word_1_315' title='bbox 936 3458 2483 3484; x_wconf 0'>ƯCƯCCCC-—ns-ns†-eG-&quot;r&quot;-tkt”nrntnHttn</span>
+      <span class='ocrx_word' id='word_1_316' title='bbox 0 0 2552 3494; x_wconf 16'>nay:</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

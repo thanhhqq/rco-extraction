@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <!--Define extract field Supplier Info-->
+    <field name="product_name" matching="">
+        <keyword>
+            <value>Tsngôn</value>
+        </keyword>
+        <position>bottom</position>
+        <page>
+            <boundary>1,0,0,0,0</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <!-- <word_space>top,left,bottom,left</word_space> -->
+        <word_space>0,0,0,200</word_space>
+        <max_line max_line_space = "">5</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="supplier_name" matching="AEON">
+        <keyword>
+            <value></value>
+        </keyword>
+        <position></position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <!-- <word_space>top,left,bottom,left</word_space> -->
+        <word_space>0,0,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script>function(curValue){if(curValue!=null) return 'CÔNG TY TNHH AEON VIỆT NAM'; else return 'CÔNG TY CỔ PHẦN VIÊN THÔNG FPT';}</script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="supplier_address" matching="">
+        <keyword>
+            <value>Địa chỉ :</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,2000,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="supplier_tax_code" matching="">
+        <keyword>
+            <value>Ma so thue</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="supplier_account" matching="">
+        <keyword>
+            <value>Mẫu số</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,300,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="supplier_tel" matching="">
+        <keyword>
+            <value>Điện thoại</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+     <field name="supplier_fax" matching="">
+        <keyword>
+            <value>Fax:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="invoice_number" matching="">
+        <keyword>
+            <value>Số hóa đơn -</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,200,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="invoice_date" matching="">
+        <keyword>
+            <value>Ngày lậphóa đơn :</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,250,2490,460</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,200,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <!--Define extract field Customer Info-->
+    <field name="company_name" matching="">
+        <keyword>
+            <value>Đơn vị Mua hàng :</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,720,2470,235</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,1000,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="company_tax_code" matching="">
+        <keyword>
+            <value>Mã số thuế :</value>
+        </keyword>
+        <position>right</position>
+        
+        <page>
+            <boundary>1,0,720,2470,235</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,1000,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="customer_address" matching="">
+        <keyword>
+            <value>Địa chỉ :</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,720,2470,235</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,2000,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="payment" matching="">
+        <keyword>
+            <value>Hìnhthứcthanhtoán :</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,720,2470,255</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,350,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="customer_account" matching="">
+        <keyword>
+            <value>Số tài khoản:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,170,440,2185,597</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,1000,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <!--Define extract field Line Items Info-->
+    <field name="product" matching="DAISO">
+        <keyword>
+            <value></value>
+        </keyword>
+        <position></position>
+        <page>
+            <boundary>1,0,960,2480,1155</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space></word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script>function(curValue){if(curValue!=null) return 'SẢN PHẨM DAISO'; else return '';}</script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="unit" matching="">
+        <keyword>
+            <value>TÍNH</value>
+        </keyword>
+        <position>bottom</position>
+        <page>
+            <boundary>1,0,960,2480,1155</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,220</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="amount" matching="">
+        <keyword>
+            <value>SỐ LƯỢNG</value>
+        </keyword>
+        <position>bottom</position>
+        <page>
+            <boundary>1,0,960,2480,1155</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,280</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="price" matching="">
+        <keyword>
+            <value>ĐƠN GIÁ</value>
+        </keyword>
+        <position>bottom</position>
+        <page>
+            <boundary>1,0,960,2480,1155</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,365</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="total" matching="">
+        <keyword>
+            <value>THÀNH TIỀN</value>
+        </keyword>
+        <position>bottom</position>
+        <page>
+            <boundary>1,0,960,2480,1155</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <word_space>0,0,0,490</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <!--Define extract field Amount Info-->
+    <field name="subtotal" matching="">
+        <keyword>
+            <value>Cộng tiền hàng:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <boundary>1,0,2100,2110,380</boundary>
+            <!--<boundary>0,0,0,0,0</boundary>-->
+        </page>
+        <pattern></pattern>
+        <word_space>0,700,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="tax_rate" matching="">
+        <keyword>
+            <value>Thuế suất GTGT:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <!--<boundary>1,0,960,2480,1155</boundary>-->
+            <boundary>1,0,2100,2110,380</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,200,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="tax" matching="">
+        <keyword>
+            <value>Tiền thuế GTGT:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <!--boundary>1,0,960,2480,1155</boundary>-->
+            <boundary>1,0,2100,2110,380</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,700,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <field name="total_tax" matching="">
+        <keyword>
+            <value>Tổng giá trị thanh toán:</value>
+        </keyword>
+        <position>right</position>
+        <page>
+            <!--<boundary>1,0,960,2480,1155</boundary>-->
+            <boundary>1,0,2100,2110,380</boundary>
+        </page>
+        <pattern></pattern>
+        <word_space>0,700,0,0</word_space>
+        <max_line max_line_space = "">1</max_line>
+        <script></script>
+        <trim>false</trim>
+        <uppercase>false</uppercase>
+        <lowercase>false</lowercase>
+    </field>
+    <!--Auto extract field Amount Info-->
+    <amount>
+        <field name="vat_rate">10|5|7</field>
+    </amount>
+</config>

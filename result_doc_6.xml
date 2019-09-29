@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="638 97 335 47" kw_val="Leistung" val_box="635 165 200 52">Logis</value>
+        <value page_nr="1" kw_box="638 97 335 47" kw_val="Leistung" val_box="634 226 732 53">Parken Tiefgarage</value>
+        <value page_nr="1" kw_box="638 97 335 47" kw_val="Leistung" val_box="631 293 398 40">Friuhstuck</value>
+    </field>
+    <field name="field_2"/>
+    <field name="field_3"/>
+    <field name="field_4"/>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="472 540 113 32" kw_val="kalamu" val_box="351 543 106 39">test ating,0</value>
+    </field>
+    <field name="field_2">
+        <value page_nr="1" kw_box="49 385 126 42" kw_val="giwutho" val_box="48 438 191 40">uregire kudi</value>
+        <value page_nr="1" kw_box="49 385 126 42" kw_val="giwutho" val_box="84 492 180 40">Wiya ugam</value>
+        <value page_nr="1" kw_box="472 540 113 32" kw_val="kalamu" val_box="432 593 233 31">kuca. Cal para</value>
+    </field>
+    <field name="field_3">
+        <value page_nr="1" kw_box="49 385 126 42" kw_val="giwutho"/>
+        <value page_nr="1" kw_box="472 540 113 32" kw_val="kalamu"/>
+    </field>
+    <field name="field_4">
+        <value page_nr="1" kw_box="49 385 126 42" kw_val="giwutho" val_box="194 384 29 32">di</value>
+        <value page_nr="1" kw_box="472 540 113 32" kw_val="kalamu" val_box="598 540 40 30">mi</value>
+    </field>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

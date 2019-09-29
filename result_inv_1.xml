@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1"/>
+    <field name="field_2"/>
+    <field name="field_3"/>
+    <field name="field_4"/>
+    <field name="net">
+        <value page_nr="1" kw_box="2050 2332 165 36" kw_val="£210.71" val_box="2050 2332 165 36">£210.71</value>
+    </field>
+    <field name="vat_amount">
+        <value page_nr="1" kw_box="2077 2401 147 36" kw_val="£42.14" val_box="2077 2401 147 36">£42.14</value>
+    </field>
+    <field name="vat_rate">
+        <value page_nr="0" kw_box="0 0 0 0" kw_val="20" val_box="0 0 0 0">20</value>
+    </field>
+    <field name="total">
+        <value page_nr="1" kw_box="2050 2470 173 36" kw_val="£252.85" val_box="2050 2470 173 36">£252.85</value>
+    </field>
+</result>

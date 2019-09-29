@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="536 325 258 17">about theatricality and</value>
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="566 381 234 21">category of the 'live'</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="587 994 180 16">no longer. Does</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="583 1049 285 22">photograph as event-as</value>
+    </field>
+    <field name="field_2">
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="602 492 218 22">Recently, I've been</value>
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="630 548 232 17">distinctions between</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="537 1160 261 22">collaborative exchange</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="632 1216 211 22">re-photographers?</value>
+    </field>
+    <field name="field_3">
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="475 436 82 17">used to</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="454 1105 115 17">'live' in an</value>
+    </field>
+    <field name="field_4">
+        <value page_nr="1" kw_box="568 436 120 22" kw_val="distinguish" val_box="699 436 81 17">theatre</value>
+        <value page_nr="1" kw_box="580 1105 89 22" kw_val="ongoing" val_box="680 1105 95 17">scene of</value>
+    </field>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

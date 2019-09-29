@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding," val_box="504 37 167 54">of the</value>
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding," val_box="411 112 413 72">wildly-working</value>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness" val_box="830 266 217 70">through</value>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness" val_box="675 342 341 67">thy pale orb</value>
+    </field>
+    <field name="field_2">
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding," val_box="420 265 376 68">eye glimmers</value>
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding," val_box="346 338 305 52">thou lovest</value>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness" val_box="711 493 539 52">from the wind-rent</value>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness" val_box="700 568 495 54">o'er the awaken'd</value>
+    </field>
+    <field name="field_3">
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding,"/>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness"/>
+    </field>
+    <field name="field_4">
+        <value page_nr="1" kw_box="398 187 205 70" kw_val="gliding," val_box="632 189 148 53">while</value>
+        <value page_nr="1" kw_box="684 417 259 53" kw_val="blackness" val_box="968 418 97 52">lost</value>
+    </field>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

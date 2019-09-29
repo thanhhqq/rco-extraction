@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <field name="field_1">
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="250 253 138 17">which continue</value>
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="198 281 160 17">which period his</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="298 572 97 17">that a Life</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="266 601 138 17">to this volume.</value>
+    </field>
+    <field name="field_2">
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="210 340 157 17">the History, and</value>
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="241 368 158 17">also be included.</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="244 659 140 20">historical value,</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="259 689 120 16">be made for</value>
+    </field>
+    <field name="field_3">
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="196 313 16 14">to</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="227 631 13 16">is</value>
+    </field>
+    <field name="field_4">
+        <value page_nr="1" kw_box="224 311 91 16" kw_val="terminate." val_box="339 311 33 16">But</value>
+        <value page_nr="1" kw_box="250 630 74 17" kw_val="however" val_box="334 630 62 17">a work</value>
+    </field>
+    <field name="net_amount"/>
+    <field name="vat_amount"/>
+    <field name="vat_rate"/>
+    <field name="total_amount"/>
+</result>

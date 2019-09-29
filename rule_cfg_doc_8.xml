@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="geburtsdatum" matching="\d{2}\.\d{2}\.\d{4}">
+		<keyword>
+			<value>Ngày</value>			
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>0,0,0,5000,5000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="accountnumber" matching="">
+		<keyword>
+			<value>Đơn hàng số</value>			
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,5000,5000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<!--<field name="telefon">
+		<keyword>
+			<value>Lệnh giao hàng số</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,5000,5000</boundary>
+		</page>
+		<pattern></pattern>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="telcode">
+		<keyword>
+			<value>Số lệnh giao hàng</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,5000,5000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space></word_space>
+		<max_line></max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>-->
+	<field name="strasse" matching="">
+		<keyword>
+			<value>Giao hàng tới</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,5000,5000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>500</word_space>
+		<max_line>3</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<!--<field name="RecieptDate">
+		<keyword>
+			<value>Date:</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptTime">
+		<keyword>
+			<value>Time:</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+			<boundary>3,400,600,500,500</boundary>
+		</page>
+		<pattern>[0-9]{2}:[0-9]{2}</pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptTerminal">
+		<keyword>
+			<value>Terminal</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>2,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>50</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptCash">
+		<keyword>
+			<value>Cash</value>			
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>5000</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="RecieptItem">
+		<keyword>
+			<value>ITEM</value>			
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>350</word_space>
+		<max_line>2</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<amount>
+		<field name="vat_rate">5|7.5|3.2</field>
+	</amount>-->
+</config>

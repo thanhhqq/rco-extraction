@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<field name="field_1" matching="">
+		<keyword>
+			<value>Leistung</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,10000,10000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>0</word_space>
+		<max_line>10</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_2" matching="">
+		<keyword>
+			<value>distinguish</value>
+			<value>ongoing</value>
+		</keyword>
+		<position>bottom</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_3" matching="">
+		<keyword>
+			<value>distinguish</value>
+			<value>ongoing</value>
+		</keyword>
+		<position>left</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<field name="field_4" matching="">
+		<keyword>
+			<value>distinguish</value>
+			<value>ongoing</value>
+		</keyword>
+		<position>right</position>
+		<page>
+			<boundary>1,0,0,3000,3000</boundary>
+		</page>
+		<pattern></pattern>
+		<word_space>100</word_space>
+		<max_line>1</max_line>
+		<script></script>
+		<trim>false</trim>
+		<uppercase>false</uppercase>
+		<lowercase>false</lowercase>
+	</field>
+	<amount>
+		<field name="vat_rate">10|5|0</field>
+	</amount>
+</config>
